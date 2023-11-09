@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "780402790971",
+    "project_id": "truyenhay24h-d2833",
+    "storage_bucket": "truyenhay24h-d2833.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780402790971:android:ebf316511d04a27cc6421e",
+        "android_client_info": {
+          "package_name": "duc.thanhhoa.truyenhay24h"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780402790971-4s6or9p6p56lj5k1kp8v0iusguv5skaa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "duc.thanhhoa.truyenhay24h",
+            "certificate_hash": "9b7d29a085bb4b66e1532dd8effcb6ed54f61bcf"
+          }
+        },
+        {
+          "client_id": "780402790971-onjsr94vk3gfsa63mrc3jimi68l5qfku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC7jGx1lI0w7LkCfrz4i4bAxid0GnaKcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780402790971-onjsr94vk3gfsa63mrc3jimi68l5qfku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
